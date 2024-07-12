@@ -1,0 +1,4 @@
+{
+    "_note": "Do not change the version. Updating to a newer version will break the application. Downgrading will trigger the autoupdate.",
+    "version": "1.0.0"
+}
